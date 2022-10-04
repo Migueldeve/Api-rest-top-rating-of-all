@@ -1,0 +1,582 @@
+{
+    "Top_movies_netflix": [
+        {
+            "id": 1,
+            "movie_name": "Day Shift",
+            "image": "Turno_de_d_a-115350021-large.jpg?alt=media&token=625f90dc-355c-47d4-b1a4-a13f626435b7"
+        },
+        {
+            "id": 2,
+            "movie_name": "Look Both Ways",
+            "image": "Look_both_ways.jpg?alt=media&token=a4909255-2f79-40fe-b0b7-fe9fd31d1d38"
+        },
+        {
+            "id": 3,
+            "movie_name": "The next 365 days",
+            "image": "the_next_365_days.jpg?alt=media&token=0064fd49-6cc1-4bbe-85ae-08e12a1f0435"
+        },
+        {
+            "id": 4,
+            "movie_name": "Purple Hearts",
+            "image": "purple_hearts.jpg?alt=media&token=cd84611b-8d07-47dc-bb32-a2ec43caf2f7"
+        },
+        {
+            "id": 5,
+            "movie_name": "Untold: The Girlfriend Who Didn't Exist",
+            "image": "Untold%2C_the_girlfriend_who_didn't_exist.jpg?alt=media&token=798e24ca-7a45-467b-b2ed-c01ada9a6db1"
+        },
+        {
+            "id": 6,
+            "movie_name": "The Gray Man",
+            "image": "The-Gray-Man.jpg?alt=media&token=b97463e8-7cc7-4bff-aa25-1da7502d720a"
+        },
+        {
+            "id": 7,
+            "movie_name": "The Angry Birds Movie 2",
+            "image": "The_Angry_Birds_Movie_2.jpg?alt=media&token=a98f7e91-668d-449d-8faf-5cfa6f760b1c"
+        },
+        {
+            "id": 8,
+            "movie_name": "Uncharted",
+            "image": "Uncharted.jpeg?alt=media&token=b11c5230-1594-4c7b-b5a1-ef46dfc5994c"
+        },
+        {
+            "id": 9,
+            "movie_name": "The Sea Beast",
+            "image": "The-Sea-Beast.jpg?alt=media&token=ddff2f68-8807-4fca-9a7d-27a96e06fb47"
+        },
+        {
+            "id": 10,
+            "movie_name": "Inside the Mind of a Cat",
+            "image": "Inside-the-Mind-of-a-Cat.jpg?alt=media&token=1fadfd7d-59a2-431f-bb65-a380010d4b5a"
+        }
+    ],
+    "Top_movies_hbo": [
+        {
+            "id": 1,
+            "movie_name": "GAME CHANGE (2012)",
+            "image": "hbo%2FGAME%20CHANGE%20(2012).jpg?alt=media&token=a6c73688-09e5-4d87-b6e0-b119d126054e"
+        },
+        {
+            "id": 2,
+            "movie_name": "THE IMMORTAL LIFE OF HENRIETTA LACKS (2017)",
+            "image": "hbo%2FTHE%20IMMORTAL%20LIFE%20OF%20HENRIETTA%20LACKS%20(2017).jpg?alt=media&token=6c630951-bc73-46d5-a895-c646e27a5118"
+        },
+        {
+            "id": 3,
+            "movie_name": "PATERNO (2018)",
+            "image": "hbo%2FPATERNO%20(2018).jpg?alt=media&token=94fc08b9-dc14-43e6-8e7d-fbab8b13b82c"
+        },
+        {
+            "id": 4,
+            "movie_name": "LA LIGA DE LA JUSTICIA DE ZACK SNYDER (2021)",
+            "image": "hbo%2FLA%20LIGA%20DE%20LA%20JUSTICIA%20DE%20ZACK%20SNYDER%20(2021).jpg?alt=media&token=dccc5c11-0e1e-45e2-88e9-babcebe75ece"
+        },
+        {
+            "id": 5,
+            "movie_name": "ENCURTIDO EN EL TIEMPO (2020)",
+            "image": "hbo%2FENCURTIDO%20EN%20EL%20TIEMPO%20(2020).jpg?alt=media&token=29fd044b-707f-41b5-b823-dd2936d7d34d"
+        },
+        {
+            "id": 6,
+            "movie_name": "THE WIZARD OF LIES (2017)",
+            "image": "hbo%2FTHE%20WIZARD%20OF%20LIES%20(2017).webp?alt=media&token=ecedd300-7d9a-49df-9cea-df6c2f2c3183"
+        },
+        {
+            "id": 7,
+            "movie_name": "OSLO (2021)",
+            "image": "hbo%2FOSLO%20(2021).webp?alt=media&token=4238c453-9d8b-4ec9-a443-af81b299f0a0"
+        },
+        {
+            "id": 8,
+            "movie_name": "THE INVENTOR: OUT FOR BLOOD IN SILICON VALLEY (2019)",
+            "image": "hbo%2FTHE%20INVENTOR%20OUT%20FOR%20BLOOD%20IN%20SILICON%20VALLEY%20(2019).jpg?alt=media&token=0ecd47ae-114f-49aa-b238-0581edcc53ec"
+        },
+        {
+            "id": 9,
+            "movie_name": "BREXIT (2019)",
+            "image": "hbo%2FBREXIT%20(2019).jpg?alt=media&token=81614ff1-54bc-4793-96e1-4c6abe37e370"
+        },
+        {
+            "id": 10,
+            "movie_name": "MY DINNER WITH HERVÉ (2018)",
+            "image": "hbo%2FMY%20DINNER%20WITH%20HERVÉ%20(2018).jpg?alt=media&token=57f93c99-484a-4c69-bfd0-c1adb4f554a5"
+        }
+    ],
+    "Top_movies_disney_plus": [
+        {
+            "id": 1,
+            "movie_name": "Thor (2011)",
+            "image": "disney%20%2B%2FThor%20(2011).jpg?alt=media&token=75727ab4-52b1-4aae-bc3f-aafff0b872ea"
+        },
+        {
+            "id": 2,
+            "movie_name": "Lightyear (2022)",
+            "image": "disney%20%2B%2FLightyear%20(2022).jpg?alt=media&token=fd947e4d-c137-4eb0-bea8-341254ad1b61"
+        },
+        {
+            "id": 3,
+            "movie_name": "Deadpool 2 (2018)",
+            "image": "disney%20%2B%2FDeadpool%202%20(2018).jpg?alt=media&token=e3917278-3fd7-4f8a-b44a-7e748d7ff4ac"
+        },
+        {
+            "id": 4,
+            "movie_name": "Logan (2017)",
+            "image": "disney%20%2B%2FLogan%20(2017).jpg?alt=media&token=7f26e6ea-9ee0-4cd8-9f82-5ba29fcb49ec"
+        },
+        {
+            "id": 5,
+            "movie_name": "Big Hero 6 (2014)",
+            "image": "disney%20%2B%2FBig%20Hero%206%20(2014).jpg?alt=media&token=895fd100-344d-400a-931d-460d158f9fc4"
+        },
+        {
+            "id": 6,
+            "movie_name": "10 Things I Hate About You (1999)",
+            "image": "disney%20%2B%2F10%20Things%20I%20Hate%20About%20You%20(1999).jpg?alt=media&token=26f61ba4-c32b-49b4-8be5-6f9e73778cf6"
+        },
+        {
+            "id": 7,
+            "movie_name": "Saga De StarWars (1977-1980-2005)",
+            "image": "disney%20%2B%2FSaga%20De%20StarWars%20(1977-1980-2005).jpg?alt=media&token=391e06ef-c822-4cb9-9044-51cbdc243b94"
+        },
+        {
+            "id": 8,
+            "movie_name": "El rey león (1994)",
+            "image": "disney%20%2B%2FEl%20rey%20león%20(1994).jpg?alt=media&token=936c69df-91a4-4162-a597-816ebe8dc130"
+        },
+        {
+            "id": 9,
+            "movie_name": "Black Widow (2021)",
+            "image": "disney%20%2B%2FBlack%20Widow%20(2021).jpg?alt=media&token=087fc659-2a8a-46ae-b155-30c6ec8c630d"
+        },
+        {
+            "id": 10,
+            "movie_name": "Avatar (2009)",
+            "image": "disney%20%2B%2FAvatar%20(2009).jpg?alt=media&token=4f64f268-8b15-4fdc-a9f2-89c3521f2779"
+        }
+    ],
+    "Top_series_netflix": [
+        {
+            "id": 1,
+            "serie_name": "DAHMER: Monster: The Jeffrey Dahmer Story",
+            "image": "series%20netflix%2FDAHMER%20Monster%20The%20Jeffrey%20Dahmer%20Story.jpg?alt=media&token=ecf29eb0-1b75-4221-a8b7-16ef1f11f6a8"
+        },
+        {
+            "id": 2,
+            "serie_name": "Fate the winx saga: Temporada 2",
+            "image": "series%20netflix%2FFate%20the%20winx%20saga%20Temporada%202.webp?alt=media&token=1613afb1-9033-48b2-b87c-5939029a6239"
+        },
+        {
+            "id": 3,
+            "serie_name": "Cobra Kai: Temporada 5",
+            "image": "series%20netflix%2FCobra%20Kai%20Temporada%205.webp?alt=media&token=a71e550b-f02c-4a8f-93e0-9cc608644e41"
+        },
+        {
+            "id": 4,
+            "serie_name": "The Crown: Temporada 1",
+            "image": "series%20netflix%2FThe%20Crown%20Temporada%201.jpg?alt=media&token=a180c414-b6db-47e0-8c3d-629415f5d028"
+        },
+        {
+            "id": 5,
+            "serie_name": "Fate the winx saga: Temporada 1",
+            "image": "series%20netflix%2FFate%20the%20winx%20saga%20Temporada%201.jpg?alt=media&token=654444d5-b8f2-4df3-b099-64fb64b31faa"
+        },
+        {
+            "id": 6,
+            "serie_name": "Heart Break High: Temporada 1",
+            "image": "series%20netflix%2FHeart%20Break%20High%20Temporada%201.jpg?alt=media&token=62c8c43a-0b08-46df-9774-0d05c135514c"
+        },
+        {
+            "id": 7,
+            "serie_name": "The Crown: Temporada 2",
+            "image": "series%20netflix%2FThe%20Crown%20Temporada%202.jpg?alt=media&token=82a76696-10ab-4774-af2a-f83b0e1621dd"
+        },
+        {
+            "id": 8,
+            "serie_name": "DYNASTY: Temporada 5",
+            "image": "series%20netflix%2FDYNASTY%20Temporada%205.jpg?alt=media&token=fee72329-074c-41c6-a17c-d07001c5707e"
+        },
+        {
+            "id": 9,
+            "serie_name": "The Imperfects: Temporada 1",
+            "image": "series%20netflix%2FThe%20Imperfects%20Temporada%201.jpg?alt=media&token=f97251d5-37df-47ad-ac4a-b3c2c68a0983"
+        },
+        {
+            "id": 10,
+            "serie_name": "Sins of our mother: Miniserie",
+            "image": "series%20netflix%2FSins%20of%20our%20mother%20Miniserie.webp?alt=media&token=1005efc0-8ef1-4c37-ac36-1f6425b3c700"
+        }
+    ],
+    "Top_series_hbo": [
+        {
+            "id": 1,
+            "serie_name": "The Wire",
+            "image": "series%20hbo%2FThe%20Wire.jpg?alt=media&token=8eb6e167-f4b9-4729-b6b0-843dc754a1c9"
+        },
+        {
+            "id": 2,
+            "serie_name": "The Sopranos",
+            "image": "series%20hbo%2FThe%20Sopranos.jpg?alt=media&token=959a7c05-8087-4b75-81ee-8aa3d247992a"
+        },
+        {
+            "id": 3,
+            "serie_name": "Chernobyl",
+            "image": "series%20hbo%2FChernobyl.jpg?alt=media&token=991948b6-22b4-464a-9593-3f97c2ecba99"
+        },
+        {
+            "id": 4,
+            "serie_name": "Game of Thrones",
+            "image": "series%20hbo%2FGame%20of%20Thrones.jpg?alt=media&token=2a48088a-4858-4a38-b70c-9b93632f9b87"
+        },
+        {
+            "id": 5,
+            "serie_name": "True Detective",
+            "image": "series%20hbo%2FTrue%20Detective.jpg?alt=media&token=d69eafa8-0d69-4a33-8256-0ddbfc5cddfb"
+        },
+        {
+            "id": 6,
+            "serie_name": "Big Little Lies",
+            "image": "series%20hbo%2FBig%20Little%20Lies.jpg?alt=media&token=3417316e-1504-4532-8f8a-ea4c5ed0dde4"
+        },
+        {
+            "id": 7,
+            "serie_name": "Silicon Valley",
+            "image": "series%20hbo%2FSilicon%20Valley.jpg?alt=media&token=72d2647e-8ae3-47df-9342-3c7aecdf99e2"
+        },
+        {
+            "id": 8,
+            "serie_name": "The Handmaid's Tale",
+            "image": "series%20hbo%2FThe%20Handmaid%20tale.jpg?alt=media&token=9d760c7d-5f47-4a70-85d8-94afa1f4eefc"
+        },
+        {
+            "id": 9,
+            "serie_name": "Westworld",
+            "image": "series%20hbo%2FWestworld.jpg?alt=media&token=20ffce4f-14b8-4c8a-96a7-a22ad05e6381"
+        },
+        {
+            "id": 10,
+            "serie_name": "Watchmen",
+            "image": "series%20hbo%2FWatchmen.jpg?alt=media&token=2f492020-31da-442d-9959-6123f38e19ac"
+        }
+    ],
+    "Top_series_disney_plus": [
+        {
+            "id": 1,
+            "serie_name": "The Book of Boba Fett (2021)",
+            "image": "series%20disney%20%2B%2FThe%20Book%20of%20Boba%20Fett%20(2021).jpg?alt=media&token=6108ff07-35ac-4fe9-abc1-29a8d86923e3"
+        },
+        {
+            "id": 2,
+            "serie_name": "Unknown land (2022)",
+            "image": "series%20disney%20%2B%2FUnknown%20land%20(2022).jpg?alt=media&token=e3454f73-1235-4917-a265-8a0911dfc1cc"
+        },
+        {
+            "id": 3,
+            "serie_name": "The Punisher (2017)",
+            "image": "series%20disney%20%2B%2FThe%20Punisher%20(2017).jpg?alt=media&token=30c5aafd-0ef2-41d0-bfc1-45b08d568474"
+        },
+        {
+            "id": 4,
+            "serie_name": "High School Musical: The Musical: The Series (2019)",
+            "image": "series%20disney%20%2B%2FHigh%20School%20Musical%20The%20Musical%20The%20Series%20(2019).jpg?alt=media&token=8c4e89f3-7292-4c37-8c7c-179be00a82c6"
+        },
+        {
+            "id": 5,
+            "serie_name": "Scarlet Witch and Vision (2021)",
+            "image": "series%20disney%20%2B%2FScarlet%20Witch%20and%20Vision%20(2021).jpg?alt=media&token=46b964ce-2734-4862-8bc8-f411d57d6809"
+        },
+        {
+            "id": 6,
+            "serie_name": "The Gifted (2017)",
+            "image": "series%20disney%20%2B%2FThe%20Gifted%20(2017).jpg?alt=media&token=ae473dfc-7288-4107-8c6e-9029f5fff75c"
+        },
+        {
+            "id": 7,
+            "serie_name": "Runaways (2017)",
+            "image": "series%20disney%20%2B%2FRunaways%20(2017).jpg?alt=media&token=e080e7e3-2c70-4b48-9dc8-174e14a48a10"
+        },
+        {
+            "id": 8,
+            "serie_name": "Big Shot: Elite Trainer (2021)",
+            "image": "series%20disney%20%2B%2FBig%20Shot%20Elite%20Trainer%20(2021).jpg?alt=media&token=724f18e3-6154-4a96-96d2-a17c8452204a"
+        },
+        {
+            "id": 9,
+            "serie_name": "Raven's house (2017)",
+            "image": "series%20disney%20%2B%2FRaven's%20house%20(2017).jpg?alt=media&token=7427a2cb-c917-4a10-aa34-d7777c582bfa"
+        },
+        {
+            "id": 10,
+            "serie_name": "Dads on request (2022)",
+            "image": "series%20disney%20%2B%2FDads%20on%20request%20(2022).jpg?alt=media&token=bf73786e-d7ef-473e-953f-c0699f942ddf"
+        }
+    ],
+    "Top_games_movil": [
+        {
+            "id": 1,
+            "game_name": "minecraft",
+            "image": "games%20movil%2Fminecraft.jpg?alt=media&token=61a08c63-ed89-4d21-90d1-0284868ad658"
+        },
+        {
+            "id": 2,
+            "game_name": "pubg mobile",
+            "image": "games%20movil%2Fpubg%20mobile.png?alt=media&token=ac2d1f6c-0f51-44a6-8821-e547320f2420"
+        },
+        {
+            "id": 3,
+            "game_name": "free fire",
+            "image": "games%20movil%2Ffree%20fire.jpg?alt=media&token=9c28c888-c27a-40bf-a415-3a6a02f7aaa2"
+        },
+        {
+            "id": 4,
+            "game_name": "Fortnite",
+            "image": "games%20movil%2FFortnite.jpg?alt=media&token=cea6c2eb-8e65-466c-92ad-fdfbd6cbbddd"
+        },
+        {
+            "id": 5,
+            "game_name": "Clash royale",
+            "image": "games%20movil%2FClash%20royale.jpg?alt=media&token=070d279f-0d42-4775-91e4-c64ebbd1cdab"
+        },
+        {
+            "id": 6,
+            "game_name": "Asphalt 9",
+            "image": "games%20movil%2FAsphalt%209.jpg?alt=media&token=027ad0ca-80eb-48f4-994e-4a17e12b3b13"
+        },
+        {
+            "id": 7,
+            "game_name": "Stumble Guys",
+            "image": "games%20movil%2FStumble%20Guys.png?alt=media&token=25b6b2cd-b5b8-4bd3-b43d-d8b04b3f6c87"
+        },
+        {
+            "id": 8,
+            "game_name": "Clash of Clans",
+            "image": "games%20movil%2FClash%20of%20Clans.jpg?alt=media&token=f6a32f90-43b7-4041-b339-ce57a81969b9"
+        },
+        {
+            "id": 9,
+            "game_name": "League of Legends: Wild Rift",
+            "image": "games%20movil%2FLeague%20of%20Legends%20Wild%20Rift.jpg?alt=media&token=a4836628-66cd-4abc-94ef-8066376872fd"
+        },
+        {
+            "id": 10,
+            "game_name": "Subway Surfers",
+            "image": "games%20movil%2FSubway%20Surfers.jpg?alt=media&token=0bb19115-3b6d-4a00-966a-ccf45b653930"
+        }
+    ],
+    "Top_games_pc": [
+        {
+            "id": 1,
+            "game_name": "Grand Theft Auto V",
+            "image": "games%20pc%2FGrand%20Theft%20Auto%20V.webp?alt=media&token=2e5453e2-e50b-440f-a796-3c0df2644001"
+        },
+        {
+            "id": 2,
+            "game_name": "Fall Guys: Ultimate Knockout",
+            "image": "games%20pc%2FFall%20Guys%20Ultimate%20Knockout.jpg?alt=media&token=2972a4a4-dc28-4b67-af27-43842b569f9d"
+        },
+        {
+            "id": 3,
+            "game_name": "Human: Fall Flat",
+            "image": "games%20pc%2FHuman%20Fall%20Flat.jpg?alt=media&token=d103d58b-a9a3-4c68-af60-8cb776de1173"
+        },
+        {
+            "id": 4,
+            "game_name": "Among Us",
+            "image": "games%20pc%2FAmong%20Us.jpg?alt=media&token=86895e5d-7670-4a42-8705-a4aad0bfcdd0"
+        },
+        {
+            "id": 5,
+            "game_name": "Valorant",
+            "image": "games%20pc%2FValorant.jpg?alt=media&token=b3db14ae-7340-4a6c-9b9c-4c92f0253a30"
+        },
+        {
+            "id": 6,
+            "game_name": "Rocket League",
+            "image": "games%20pc%2FRocket%20League.jpg?alt=media&token=74294feb-5207-4f99-95f4-630a78933b40"
+        },
+        {
+            "id": 7,
+            "game_name": "Roblox",
+            "image": "games%20pc%2FRoblox.jpg?alt=media&token=9640c643-29b5-4ddb-82b0-b6159d8fac82"
+        },
+        {
+            "id": 8,
+            "game_name": "Fornite",
+            "image": "games%20pc%2FFornite.jpg?alt=media&token=1b8d0d4d-6772-44d9-a8ca-a2b718a7948b"
+        },
+        {
+            "id": 9,
+            "game_name": "Forza Horizon 2",
+            "image": "games%20pc%2FForza%20Horizon%202.webp?alt=media&token=cf450361-f5c2-4081-8d07-67c365a22ae4"
+        },
+        {
+            "id": 10,
+            "game_name": "Fifa 23",
+            "image": "games%20pc%2FFifa%2023.jpg?alt=media&token=e8c6c70c-c484-4e99-a03e-cccb1241ee16"
+        }
+    ],
+    "Top_social_network": [
+        {
+            "id": 1,
+            "social_name": "Facebook",
+            "image": "top%20redes%20sociales%2FFacebook.jpg?alt=media&token=2439e6ce-4b9d-40a7-9302-80104c7215c0"
+        },
+        {
+            "id": 2,
+            "social_name": "Whatsapp",
+            "image": "top%20redes%20sociales%2FWhatsapp.webp?alt=media&token=73e86ee1-0cb2-46d4-8530-587d4998fa3a"
+        },
+        {
+            "id": 3,
+            "social_name": "TikTok",
+            "image": "top%20redes%20sociales%2FTikTok.png?alt=media&token=529830a6-1132-4b14-b982-dc177a03998e"
+        },
+        {
+            "id": 4,
+            "social_name": "Instagram",
+            "image": "top%20redes%20sociales%2FInstagram.jpg?alt=media&token=4e7328b6-0f1b-4f4a-b37d-2487fec970d9"
+        },
+        {
+            "id": 5,
+            "social_name": "Youtube",
+            "image": "top%20redes%20sociales%2FYoutube.jpg?alt=media&token=eb6b8874-f428-4e1a-9537-6721ec7f0668"
+        },
+        {
+            "id": 6,
+            "social_name": "Telegram",
+            "image": "top%20redes%20sociales%2FTelegram.jpg?alt=media&token=a751f352-e5b0-4871-a367-6736d88848d5"
+        },
+        {
+            "id": 7,
+            "social_name": "Twitter",
+            "image": "top%20redes%20sociales%2FTwitter.jpg?alt=media&token=5d9d7bf6-f629-4f8f-9098-d88d783f9317"
+        },
+        {
+            "id": 8,
+            "social_name": "Snapchat",
+            "image": "top%20redes%20sociales%2FSnapchat.jpg?alt=media&token=8a13c88b-4bcb-4b7c-bea6-b563b79306d9"
+        },
+        {
+            "id": 9,
+            "social_name": "Spotify",
+            "image": "top%20redes%20sociales%2FSpotify.png?alt=media&token=e91e6782-a6a1-4e66-a165-9f8b4c3494bd"
+        },
+        {
+            "id": 10,
+            "social_name": "Linkedin",
+            "image": "top%20redes%20sociales%2FLinkedin.jpg?alt=media&token=9f2165d8-d567-4f9b-9ba7-4a6162b2c9f8"
+        }
+    ],
+    "Top_developers": [
+        {
+            "id": 1,
+            "developer_name": "Bill Gates",
+            "image": "top%20developers%2FBill%20Gates.jpg?alt=media&token=8af79751-f2e5-4f4d-bc15-63a900cdcff9"
+        },
+        {
+            "id": 2,
+            "developer_name": "Linus Torvalds",
+            "image": "top%20developers%2FLinus%20Torvalds.webp?alt=media&token=451bde4c-e523-41ba-97a1-e93350449a68"
+        },
+        {
+            "id": 3,
+            "developer_name": "Mark Zuckerberg",
+            "image": "top%20developers%2FMark%20Zuckerberg.jpg?alt=media&token=20c74f25-6427-4631-bdc6-d5b49fdafda6"
+        },
+        {
+            "id": 4,
+            "developer_name": "Steve Jobs",
+            "image": "top%20developers%2FSteve%20Jobs.jpg?alt=media&token=5721ba02-8cbb-4289-a3c3-9b0d81e9b9c3"
+        },
+        {
+            "id": 5,
+            "developer_name": "Larry Page",
+            "image": "top%20developers%2FLarry%20Page.webp?alt=media&token=cf66fe36-6bf1-4768-9ccd-161ba415914f"
+        },
+        {
+            "id": 6,
+            "developer_name": "Jeff Bezos",
+            "image": "top%20developers%2FJeff%20Bezos.webp?alt=media&token=d3d44e34-df02-4cce-a92b-b710237aa6cd"
+        },
+        {
+            "id": 7,
+            "developer_name": "Guido van Rossum",
+            "image": "top%20developers%2FGuido%20van%20Rossum.jpg?alt=media&token=12fc0c6a-4e9d-45e4-bb02-76577325327d"
+        },
+        {
+            "id": 8,
+            "developer_name": "Brendan Eich",
+            "image": "top%20developers%2FBrendan%20Eich.jpg?alt=media&token=4c3002d7-dc64-4452-aae6-eccd2b8f61b0"
+        },
+        {
+            "id": 9,
+            "developer_name": "Bjarne Stroustrup",
+            "image": "top%20developers%2FBjarne%20Stroustrup.jpg?alt=media&token=895687c4-81e3-42b7-b3a3-343115e3801f"
+        },
+        {
+            "id": 10,
+            "developer_name": "Jan Koum",
+            "image": "top%20developers%2FJan%20Koum.jpg?alt=media&token=7936a272-fca6-4c25-a7a2-f1cc7a23e3e5"
+        },
+        {
+            "id": 11,
+            "developer_name": "Mike Krieger",
+            "image": "top%20developers%2FMike%20Krieger.jpg?alt=media&token=e19b09b0-5eed-41d1-8633-bd08157165ba"
+        },
+        {
+            "id": 12,
+            "developer_name": "Kevin Systrom",
+            "image": "top%20developers%2FKevin%20Systrom.jpg?alt=media&token=6786a96e-3545-450d-9510-f8f104697ed9"
+        },
+        {
+            "id": 13,
+            "developer_name": "Elon Musk",
+            "image": "top%20developers%2FElon%20Musk.jpg?alt=media&token=63081e40-7b0c-421c-bb66-a3987f70504e"
+        },
+        {
+            "id": 14,
+            "developer_name": "Reid Hoffman",
+            "image": "top%20developers%2FReid%20Hoffman.jpg?alt=media&token=d564b09c-9232-4b73-b71d-132701f42814"
+        },
+        {
+            "id": 15,
+            "developer_name": "Daniel Ek",
+            "image": "top%20developers%2FDaniel%20Ek.jpg?alt=media&token=7208315f-8752-4f48-86ee-94cd9c275e8f"
+        },
+        {
+            "id": 16,
+            "developer_name": "Richard Branson",
+            "image": "top%20developers%2FRichard%20Branson.jpg?alt=media&token=bcf59779-67ff-4cb8-b418-66679d0f71a8"
+        },
+        {
+            "id": 17,
+            "developer_name": "Martin Lorentzon",
+            "image": "top%20developers%2FMartin%20Lorentzon.jpg?alt=media&token=d2db6320-361d-4a5c-8c4b-238a1ca5df0a"
+        },
+        {
+            "id": 18,
+            "developer_name": "Robert Griesemer",
+            "image": "top%20developers%2FRobert%20Griesemer.jpg?alt=media&token=54aea629-405f-45e6-8840-235dd190e721"
+        },
+        {
+            "id": 19,
+            "developer_name": "James Gosling",
+            "image": "top%20developers%2FJames%20Gosling.jpg?alt=media&token=270e353f-8dcf-4824-afcf-28d55497526a"
+        },
+        {
+            "id": 20,
+            "developer_name": "Anders Hejlsberg",
+            "image": "top%20developers%2FAnders%20Hejlsberg.jpg?alt=media&token=3e1362e5-d5e4-4dca-9c6e-07f066041fc0"
+        }
+    ],
+    "Terminos_y_condiciones": [
+        {
+            "id": 1,
+            "Terminos_y_condiciones": "Este sitio web es propiedad y está operado por MIGUEL ANGEL AVILA MERCADO. Estos Términos establecen los términos y condiciones bajo los cuales tu puedes usar nuestra página web y servicios ofrecidos por nosotros. Esta página web ofrece a los visitantes top 10 de peliculas, series, juegos, programadores de sotfware y redes sociales. Al acceder o usar la página web de nuestro servicio, usted aprueba que haya leído, entendido y aceptado estar sujeto a estos Términos"
+        },
+        {
+            "id": 2,
+            "Terminos_y_condiciones": "El Servicio y todos los materiales incluidos o transferidos, incluyendo, sin limitación, software, imágenes, texto, gráficos, logotipos, patentes, marcas registradas, marcas de servicio, derechos de autor, fotografías, audio, videos, música y todos los Derechos de Propiedad Intelectual relacionados con ellos, son la propiedad exclusiva de MIGUEL ANGEL AVILA MERCADO. Salvo que se indique explícitamente en este documento, no se considerará que nada en estos Términos crea una licencia en o bajo ninguno de dichos Derechos de Propiedad Intelectual, y tu aceptas no vender, licenciar, alquilar, modificar, distribuir, copiar, reproducir, transmitir, exhibir públicamente, realizar públicamente, publicar, adaptar, editar o crear trabajos derivados de los mismos"
+        }
+    ]
+}
